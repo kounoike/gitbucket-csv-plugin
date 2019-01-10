@@ -1,0 +1,5 @@
+name := "gitbucket-csv-plugin"
+organization := "io.github.gitbucket"
+version := "1.0.0"
+scalaVersion := "2.12.8"
+gitbucketVersion := "4.30.1"
